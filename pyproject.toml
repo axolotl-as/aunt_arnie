@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aunt_arnie"
+version = "0.1.0"
+description = "aunt_arnie"
+requires-python = ">=3.9"
